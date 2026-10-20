@@ -1,0 +1,6 @@
+{
+  "name": "IJS_VET — Voter Eligibility Checker",
+  "description": "Interactive voter eligibility and civic readiness tool with instant age verification, global jurisdiction criteria, countdown roadmap, and Kivy framework simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
